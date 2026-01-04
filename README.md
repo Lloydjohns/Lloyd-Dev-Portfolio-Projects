@@ -1,73 +1,76 @@
-# Welcome to your Lovable project
+# Lloyd~Dev Portfolio & Projects
 
-## Project info
+Welcome to my professional portfolio repository! I’m **Lloyd**, a full-stack developer passionate about building high-performance websites and intelligent automation solutions that transform business operations and accelerate growth.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 About Me
 
-There are several ways of editing your application.
+I am a full-stack developer with **5+ years of experience** delivering digital solutions across web development, automation, and system integrations. I specialize in:
 
-**Use Lovable**
+- **Web Development** – Custom websites and web applications using modern frameworks and tools.
+- **Process Automation** – Streamlining workflows to save time and reduce errors.
+- **API Integration** – Connecting systems seamlessly for unified workflows.
+- **Database Design** – Scalable and efficient database architectures.
+- **AI Integration** – Leveraging AI for smart features and automation.
+- **E-Commerce Solutions** – Full-featured online stores with payment processing and analytics.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+I’ve successfully delivered **50+ projects** with **99% client satisfaction**. My focus is on creating scalable, efficient, and elegant solutions that make technology work harder for you.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 💻 Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Here are some of the technologies I use to build my projects:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Python, Supabase, GraphQL  
+- **Database:** PostgreSQL, MongoDB, Redis  
+- **DevOps & Cloud:** Docker, AWS  
+- **Automation & AI:** Zapier, REST APIs, Webhooks  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠 Featured Projects
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Here are a few highlights of my work:
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 1. E-Commerce Platform
+- **Description:** A full-featured online store with real-time inventory, payment processing, and admin dashboard.  
+- **Tech:** React, Node.js, Stripe, PostgreSQL  
+- [View Project](#)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 2. Workflow Automation Suite
+- **Description:** Enterprise automation tool that reduced manual data entry by 85% for a logistics company.  
+- **Tech:** Python, Zapier, REST APIs, Webhooks  
+- [View Project](#)
 
-**Edit a file directly in GitHub**
+### 3. SaaS Dashboard
+- **Description:** Analytics dashboard with real-time data visualization and AI-powered insights.  
+- **Tech:** TypeScript, React, D3.js, Supabase  
+- [View Project](#)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 4. CRM Integration Hub
+- **Description:** Custom integration connecting 12+ third-party services into a unified CRM platform.  
+- **Tech:** Node.js, GraphQL, Salesforce, HubSpot  
+- [View Project](#)
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📫 Contact Me
 
-## What technologies are used for this project?
+Have a project in mind? Let’s work together!  
 
-This project is built with:
+- **Email:** jhonlloydborres021@gmail.com  
+- **Location:** Meycauayan City, Bulacan  
+- [LinkedIn / Portfolio](#)  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📌 License
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+This repository is open-source and available under the **MIT License**.  
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+> “Crafting digital excellence and automation to transform ideas into reality.” – Lloyd~Dev
